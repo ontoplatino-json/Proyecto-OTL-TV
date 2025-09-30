@@ -1,19 +1,42 @@
-{
-  "semana": [
-    {
-      "dia": "Lunes",
-      "programas": [
-        { "titulo": "Noticiero de la Mañana", "hora": "06:00 - 08:00", "descripcion": "Noticias nacionales e internacionales para empezar la semana." },
-        { "titulo": "Café Musical", "hora": "08:00 - 10:00", "descripcion": "Éxitos latinos para acompañar tu mañana." }
-      ]
-    },
-    {
-      "dia": "Martes",
-      "programas": [
-        { "titulo": "Programa Infantil", "hora": "10:00 - 12:00", "descripcion": "Diversión y aprendizaje para los pequeños." },
-        { "titulo": "Cine de Acción", "hora": "21:00 - 23:00", "descripcion": "Película de acción con grandes producciones." }
-      ]
-    }
-  ]
-}
-
+[
+  {
+    "titulo": "Noticiero Matutino",
+    "horario": "08:00 - 09:00 AM"
+  },
+  {
+    "titulo": "Cine Familiar",
+    "horario": "09:00 - 11:00 AM"
+  },
+  {
+    "titulo": "Deportes en Vivo",
+    "horario": "11:00 - 12:00 PM"
+  },
+  {
+    "titulo": "Serie Juvenil",
+    "horario": "12:00 - 01:00 PM"
+  },
+  {
+    "titulo": "Noticias de la Tarde",
+    "horario": "01:00 - 02:00 PM"
+  },
+  {
+    "titulo": "Película Estelar",
+    "horario": "02:00 - 04:00 PM"
+  },
+  {
+    "titulo": "Documental",
+    "horario": "04:00 - 05:00 PM"
+  },
+  {
+    "titulo": "Resumen Deportivo",
+    "horario": "05:00 - 06:00 PM"
+  },
+  {
+    "titulo": "Noticias Nocturnas",
+    "horario": "06:00 - 07:00 PM"
+  },
+  {
+    "titulo": "Cine de Medianoche",
+    "horario": "11:00 - 01:00 AM"
+  }
+]
