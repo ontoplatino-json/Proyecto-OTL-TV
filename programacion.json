@@ -1,29 +1,57 @@
-{
-  "programacion": [
-    {
-      "titulo": "Noticiero Central",
-      "hora": "08:00 - 09:00",
-      "descripcion": "Resumen de noticias nacionales e internacionales."
-    },
-    {
-      "titulo": "Música Latina",
-      "hora": "09:00 - 11:00",
-      "descripcion": "Los mejores éxitos de la música latina."
-    },
-    {
-      "titulo": "Cine en Casa",
-      "hora": "11:00 - 13:00",
-      "descripcion": "Películas clásicas y estrenos recientes."
-    },
-    {
-      "titulo": "Deportes en Vivo",
-      "hora": "13:00 - 15:00",
-      "descripcion": "Partidos y análisis de fútbol y otros deportes."
-    },
-    {
-      "titulo": "Serie Estelar",
-      "hora": "20:00 - 21:00",
-      "descripcion": "Capítulos de la serie favorita de la audiencia."
-    }
-  ]
-}
+[
+  {
+    "titulo": "Noticiero de la Mañana",
+    "hora": "06:00 - 08:00",
+    "descripcion": "Resumen de noticias nacionales e internacionales para empezar el día informado."
+  },
+  {
+    "titulo": "Café Musical",
+    "hora": "08:00 - 10:00",
+    "descripcion": "Selección de música latina y pop para acompañar la mañana."
+  },
+  {
+    "titulo": "Programa Infantil",
+    "hora": "10:00 - 12:00",
+    "descripcion": "Caricaturas y shows educativos para los más pequeños."
+  },
+  {
+    "titulo": "Cine Matinal",
+    "hora": "12:00 - 14:00",
+    "descripcion": "Películas familiares para disfrutar en casa."
+  },
+  {
+    "titulo": "Almuerzo de Noticias",
+    "hora": "14:00 - 15:00",
+    "descripcion": "Lo último en deportes, clima y economía."
+  },
+  {
+    "titulo": "Serie Internacional",
+    "hora": "15:00 - 17:00",
+    "descripcion": "Episodios de la serie favorita de la audiencia."
+  },
+  {
+    "titulo": "Cine de la Tarde",
+    "hora": "17:00 - 19:00",
+    "descripcion": "Películas clásicas de acción y aventura."
+  },
+  {
+    "titulo": "Noticiero Central",
+    "hora": "19:00 - 20:00",
+    "descripcion": "Las noticias más relevantes del día con análisis en profundidad."
+  },
+  {
+    "titulo": "Telenovela Estelar",
+    "hora": "20:00 - 21:00",
+    "descripcion": "Drama romántico lleno de intriga y emociones."
+  },
+  {
+    "titulo": "Cine de la Noche",
+    "hora": "21:00 - 23:00",
+    "descripcion": "Estrenos recientes y grandes producciones de Hollywood."
+  },
+  {
+    "titulo": "Música en Vivo",
+    "hora": "23:00 - 00:00",
+    "descripcion": "Conciertos y presentaciones exclusivas."
+  }
+]
