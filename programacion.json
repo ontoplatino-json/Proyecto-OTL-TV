@@ -1,20 +1,29 @@
 {
   "programacion": [
     {
-      "titulo": "Noticias de la Mañana",
-      "hora": "08:00 AM"
+      "titulo": "Noticiero Central",
+      "hora": "08:00 - 09:00",
+      "descripcion": "Resumen de noticias nacionales e internacionales."
     },
     {
       "titulo": "Música Latina",
-      "hora": "10:00 AM"
+      "hora": "09:00 - 11:00",
+      "descripcion": "Los mejores éxitos de la música latina."
+    },
+    {
+      "titulo": "Cine en Casa",
+      "hora": "11:00 - 13:00",
+      "descripcion": "Películas clásicas y estrenos recientes."
     },
     {
       "titulo": "Deportes en Vivo",
-      "hora": "12:00 PM"
+      "hora": "13:00 - 15:00",
+      "descripcion": "Partidos y análisis de fútbol y otros deportes."
     },
     {
-      "titulo": "Película Destacada",
-      "hora": "08:00 PM"
+      "titulo": "Serie Estelar",
+      "hora": "20:00 - 21:00",
+      "descripcion": "Capítulos de la serie favorita de la audiencia."
     }
   ]
 }
