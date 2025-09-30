@@ -1,12 +1,20 @@
-[
-  { "titulo": "Noticiero de la Mañana", "horario": "08:00 - 09:00" },
-  { "titulo": "Café Musical", "horario": "09:00 - 11:00" },
-  { "titulo": "Película: Acción Total", "horario": "11:00 - 13:00" },
-  { "titulo": "Almuerzo de Noticias", "horario": "13:00 - 14:00" },
-  { "titulo": "Programación Infantil", "horario": "14:00 - 16:00" },
-  { "titulo": "Serie Latino", "horario": "16:00 - 18:00" },
-  { "titulo": "Telenovela Estelar", "horario": "18:00 - 19:00" },
-  { "titulo": "Noticias de la Noche", "horario": "19:00 - 20:00" },
-  { "titulo": "Cine Clásico", "horario": "20:00 - 22:00" },
-  { "titulo": "Música en Vivo", "horario": "22:00 - 00:00" }
-]
+{
+  "programacion": [
+    {
+      "titulo": "Noticias de la Mañana",
+      "hora": "08:00 AM"
+    },
+    {
+      "titulo": "Música Latina",
+      "hora": "10:00 AM"
+    },
+    {
+      "titulo": "Deportes en Vivo",
+      "hora": "12:00 PM"
+    },
+    {
+      "titulo": "Película Destacada",
+      "hora": "08:00 PM"
+    }
+  ]
+}
