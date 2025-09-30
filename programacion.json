@@ -1,43 +1,35 @@
-[
-  {
-    "titulo": "Noticiero Matutino",
-    "horario": "08:00 - 09:00 AM"
-  },
-  {
-    "titulo": "Cine Familiar",
-    "horario": "09:00 - 11:00 AM"
-  },
-  {
-    "titulo": "Deportes en Vivo",
-    "horario": "11:00 - 12:00 PM"
-  },
-  {
-    "titulo": "Serie Juvenil",
-    "horario": "12:00 - 01:00 PM"
-  },
-  {
-    "titulo": "Noticias de la Tarde",
-    "horario": "01:00 - 02:00 PM"
-  },
-  {
-    "titulo": "Película Estelar",
-    "horario": "02:00 - 04:00 PM"
-  },
-  {
-    "titulo": "Documental",
-    "horario": "04:00 - 05:00 PM"
-  },
-  {
-    "titulo": "Resumen Deportivo",
-    "horario": "05:00 - 06:00 PM"
-  },
-  {
-    "titulo": "Noticias Nocturnas",
-    "horario": "06:00 - 07:00 PM"
-  },
-  {
-    "titulo": "Cine de Medianoche",
-    "horario": "11:00 - 01:00 AM"
-  }
-]
+{
+  "dias": [
+    {
+      "dia": "Lunes",
+      "programas": [
+        {
+          "titulo": "Noticias Mañana",
+          "horario": "08:00 AM",
+          "descripcion": "Resumen de noticias del día."
+        },
+        {
+          "titulo": "Cine Clásico",
+          "horario": "10:00 AM",
+          "descripcion": "Películas clásicas de todos los tiempos."
+        }
+      ]
+    },
+    {
+      "dia": "Martes",
+      "programas": [
+        {
+          "titulo": "Música Latina",
+          "horario": "09:00 AM",
+          "descripcion": "Los mejores éxitos de la música latina."
+        },
+        {
+          "titulo": "Documental",
+          "horario": "11:00 AM",
+          "descripcion": "Explorando la naturaleza."
+        }
+      ]
+    }
+  ]
+}
 
