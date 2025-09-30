@@ -1,35 +1,33 @@
-{
-  "dias": [
-    {
-      "dia": "Lunes",
-      "programas": [
-        {
-          "titulo": "Noticias Mañana",
-          "horario": "08:00 AM",
-          "descripcion": "Resumen de noticias del día."
-        },
-        {
-          "titulo": "Cine Clásico",
-          "horario": "10:00 AM",
-          "descripcion": "Películas clásicas de todos los tiempos."
-        }
-      ]
-    },
-    {
-      "dia": "Martes",
-      "programas": [
-        {
-          "titulo": "Música Latina",
-          "horario": "09:00 AM",
-          "descripcion": "Los mejores éxitos de la música latina."
-        },
-        {
-          "titulo": "Documental",
-          "horario": "11:00 AM",
-          "descripcion": "Explorando la naturaleza."
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "titulo": "Noticiero Central",
+    "horario": "08:00 - 09:00",
+    "descripcion": "Noticias nacionales e internacionales más importantes del día."
+  },
+  {
+    "titulo": "Música en Vivo",
+    "horario": "09:00 - 11:00",
+    "descripcion": "Los mejores éxitos musicales en directo."
+  },
+  {
+    "titulo": "Deportes Hoy",
+    "horario": "11:00 - 12:00",
+    "descripcion": "Resumen de la jornada deportiva con entrevistas y análisis."
+  },
+  {
+    "titulo": "Cine Latino",
+    "horario": "12:00 - 14:00",
+    "descripcion": "Películas destacadas de la cinematografía latinoamericana."
+  },
+  {
+    "titulo": "Programación Especial",
+    "horario": "14:00 - 16:00",
+    "descripcion": "Eventos y documentales exclusivos."
+  },
+  {
+    "titulo": "Top Hits",
+    "horario": "16:00 - 18:00",
+    "descripcion": "Los éxitos más escuchados de la semana."
+  }
+]
 
