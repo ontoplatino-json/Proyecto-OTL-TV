@@ -1,33 +1,50 @@
-[
-  {
-    "titulo": "Noticiero Central",
-    "horario": "08:00 - 09:00",
-    "descripcion": "Noticias nacionales e internacionales más importantes del día."
-  },
-  {
-    "titulo": "Música en Vivo",
-    "horario": "09:00 - 11:00",
-    "descripcion": "Los mejores éxitos musicales en directo."
-  },
-  {
-    "titulo": "Deportes Hoy",
-    "horario": "11:00 - 12:00",
-    "descripcion": "Resumen de la jornada deportiva con entrevistas y análisis."
-  },
-  {
-    "titulo": "Cine Latino",
-    "horario": "12:00 - 14:00",
-    "descripcion": "Películas destacadas de la cinematografía latinoamericana."
-  },
-  {
-    "titulo": "Programación Especial",
-    "horario": "14:00 - 16:00",
-    "descripcion": "Eventos y documentales exclusivos."
-  },
-  {
-    "titulo": "Top Hits",
-    "horario": "16:00 - 18:00",
-    "descripcion": "Los éxitos más escuchados de la semana."
-  }
-]
+{
+  "dias": [
+    {
+      "dia": "Lunes",
+      "programas": [
+        {
+          "titulo": "Noticiero Central",
+          "horario": "08:00 - 09:00",
+          "descripcion": "Noticias nacionales e internacionales más importantes del día."
+        },
+        {
+          "titulo": "Música en Vivo",
+          "horario": "09:00 - 11:00",
+          "descripcion": "Los mejores éxitos musicales en directo."
+        }
+      ]
+    },
+    {
+      "dia": "Martes",
+      "programas": [
+        {
+          "titulo": "Deportes Hoy",
+          "horario": "11:00 - 12:00",
+          "descripcion": "Resumen de la jornada deportiva con entrevistas y análisis."
+        },
+        {
+          "titulo": "Cine Latino",
+          "horario": "12:00 - 14:00",
+          "descripcion": "Películas destacadas de la cinematografía latinoamericana."
+        }
+      ]
+    },
+    {
+      "dia": "Miércoles",
+      "programas": [
+        {
+          "titulo": "Programación Especial",
+          "horario": "15:00 - 17:00",
+          "descripcion": "Contenido especial con invitados sorpresa."
+        },
+        {
+          "titulo": "Clásicos de Siempre",
+          "horario": "17:00 - 19:00",
+          "descripcion": "Serie de programas clásicos para toda la familia."
+        }
+      ]
+    }
+  ]
+}
 
