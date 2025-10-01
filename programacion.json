@@ -9,9 +9,9 @@
           "descripcion": "Noticias nacionales e internacionales más importantes del día."
         },
         {
-          "titulo": "Música en Vivo",
+          "titulo": "Música Latina",
           "horario": "09:00 - 11:00",
-          "descripcion": "Los mejores éxitos musicales en directo."
+          "descripcion": "Los mejores éxitos de la música latina actual."
         }
       ]
     },
@@ -19,14 +19,14 @@
       "dia": "Martes",
       "programas": [
         {
-          "titulo": "Deportes Hoy",
-          "horario": "11:00 - 12:00",
-          "descripcion": "Resumen de la jornada deportiva con entrevistas y análisis."
+          "titulo": "Cine Clásico",
+          "horario": "20:00 - 22:00",
+          "descripcion": "Películas clásicas del cine latinoamericano."
         },
         {
-          "titulo": "Cine Latino",
-          "horario": "12:00 - 14:00",
-          "descripcion": "Películas destacadas de la cinematografía latinoamericana."
+          "titulo": "Deportes en Vivo",
+          "horario": "22:00 - 23:00",
+          "descripcion": "Cobertura de eventos deportivos en directo."
         }
       ]
     },
@@ -34,17 +34,18 @@
       "dia": "Miércoles",
       "programas": [
         {
-          "titulo": "Programación Especial",
-          "horario": "15:00 - 17:00",
-          "descripcion": "Contenido especial con invitados sorpresa."
+          "titulo": "Entrevistas Exclusivas",
+          "horario": "18:00 - 19:00",
+          "descripcion": "Conversaciones con personalidades de la música y la cultura."
         },
         {
-          "titulo": "Clásicos de Siempre",
-          "horario": "17:00 - 19:00",
-          "descripcion": "Serie de programas clásicos para toda la familia."
+          "titulo": "Top 10 Musical",
+          "horario": "19:00 - 20:00",
+          "descripcion": "Los 10 temas más sonados de la semana."
         }
       ]
     }
   ]
 }
 
+  
