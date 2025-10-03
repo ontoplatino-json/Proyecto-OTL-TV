@@ -3,49 +3,32 @@
     {
       "dia": "Lunes",
       "programas": [
-        {
-          "titulo": "Noticiero Central",
-          "horario": "08:00 - 09:00",
-          "descripcion": "Noticias nacionales e internacionales más importantes del día."
-        },
-        {
-          "titulo": "Música Latina",
-          "horario": "09:00 - 11:00",
-          "descripcion": "Los mejores éxitos de la música latina actual."
-        }
+        { "hora": "08:00", "titulo": "Noticiero de la Mañana" },
+        { "hora": "10:00", "titulo": "Café Musical" },
+        { "hora": "12:00", "titulo": "Cine Latino" },
+        { "hora": "15:00", "titulo": "Deportes al Día" },
+        { "hora": "20:00", "titulo": "Tardes de Novela" }
       ]
     },
     {
       "dia": "Martes",
       "programas": [
-        {
-          "titulo": "Cine Clásico",
-          "horario": "20:00 - 22:00",
-          "descripcion": "Películas clásicas del cine latinoamericano."
-        },
-        {
-          "titulo": "Deportes en Vivo",
-          "horario": "22:00 - 23:00",
-          "descripcion": "Cobertura de eventos deportivos en directo."
-        }
+        { "hora": "08:00", "titulo": "Noticiero de la Mañana" },
+        { "hora": "10:00", "titulo": "Entrevistas en Vivo" },
+        { "hora": "12:00", "titulo": "Películas Clásicas" },
+        { "hora": "15:00", "titulo": "Fútbol Internacional" },
+        { "hora": "20:00", "titulo": "Conciertos en Directo" }
       ]
     },
     {
       "dia": "Miércoles",
       "programas": [
-        {
-          "titulo": "Entrevistas Exclusivas",
-          "horario": "18:00 - 19:00",
-          "descripcion": "Conversaciones con personalidades de la música y la cultura."
-        },
-        {
-          "titulo": "Top 10 Musical",
-          "horario": "19:00 - 20:00",
-          "descripcion": "Los 10 temas más sonados de la semana."
-        }
+        { "hora": "08:00", "titulo": "Noticias Globales" },
+        { "hora": "10:00", "titulo": "Latino Hits" },
+        { "hora": "12:00", "titulo": "Documentales" },
+        { "hora": "15:00", "titulo": "Magazine Cultural" },
+        { "hora": "20:00", "titulo": "Noche de Humor" }
       ]
     }
   ]
 }
-
-  
