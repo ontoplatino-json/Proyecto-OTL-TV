@@ -1,34 +1,19 @@
-{
-  "dias": [
-    {
-      "dia": "Lunes",
-      "programas": [
-        { "hora": "08:00", "titulo": "Noticiero de la Mañana" },
-        { "hora": "10:00", "titulo": "Café Musical" },
-        { "hora": "12:00", "titulo": "Cine Latino" },
-        { "hora": "15:00", "titulo": "Deportes al Día" },
-        { "hora": "20:00", "titulo": "Tardes de Novela" }
-      ]
-    },
-    {
-      "dia": "Martes",
-      "programas": [
-        { "hora": "08:00", "titulo": "Noticiero de la Mañana" },
-        { "hora": "10:00", "titulo": "Entrevistas en Vivo" },
-        { "hora": "12:00", "titulo": "Películas Clásicas" },
-        { "hora": "15:00", "titulo": "Fútbol Internacional" },
-        { "hora": "20:00", "titulo": "Conciertos en Directo" }
-      ]
-    },
-    {
-      "dia": "Miércoles",
-      "programas": [
-        { "hora": "08:00", "titulo": "Noticias Globales" },
-        { "hora": "10:00", "titulo": "Latino Hits" },
-        { "hora": "12:00", "titulo": "Documentales" },
-        { "hora": "15:00", "titulo": "Magazine Cultural" },
-        { "hora": "20:00", "titulo": "Noche de Humor" }
-      ]
-    }
-  ]
-}
+[
+  {
+    "hora": "08:00",
+    "titulo": "Noticiero de la Mañana"
+  },
+  {
+    "hora": "10:00",
+    "titulo": "Café Musical"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "Cine Latino"
+  },
+  {
+    "hora": "16:00",
+    "titulo": "Deportes al Día"
+  }
+]
+
