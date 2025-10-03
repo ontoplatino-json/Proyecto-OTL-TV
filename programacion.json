@@ -1,19 +1,18 @@
-[
-  {
-    "hora": "08:00",
-    "titulo": "Noticiero de la Mañana"
-  },
-  {
-    "hora": "10:00",
-    "titulo": "Café Musical"
-  },
-  {
-    "hora": "13:00",
-    "titulo": "Cine Latino"
-  },
-  {
-    "hora": "16:00",
-    "titulo": "Deportes al Día"
-  }
-]
-
+{
+  "dias": [
+    {
+      "nombre": "Lunes",
+      "programas": [
+        { "hora": "08:00", "titulo": "Noticiero de la Mañana" },
+        { "hora": "10:00", "titulo": "Café Musical" }
+      ]
+    },
+    {
+      "nombre": "Martes",
+      "programas": [
+        { "hora": "09:00", "titulo": "Películas Clásicas" },
+        { "hora": "15:00", "titulo": "Deportes en Vivo" }
+      ]
+    }
+  ]
+}
