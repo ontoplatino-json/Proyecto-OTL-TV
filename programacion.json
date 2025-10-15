@@ -5,155 +5,50 @@
       "programas": [
         { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Comedias y dramas latinos." },
         { "hora": "01:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
-        { "hora": "02:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." },
-        { "hora": "03:00", "titulo": "Videos Musicales", "descripcion": "Éxitos del momento." },
-        { "hora": "04:00", "titulo": "Series Latinas", "descripcion": "Producciones originales de la región." },
-        { "hora": "05:00", "titulo": "Top Latino", "descripcion": "Los más votados del día." },
-        { "hora": "06:00", "titulo": "Reportes Especiales", "descripcion": "Coberturas y documentales." },
-        { "hora": "07:00", "titulo": "Noticiero Latino", "descripcion": "Actualidad nacional e internacional." },
-        { "hora": "08:00", "titulo": "Cine Matinal", "descripcion": "Películas clásicas de la mañana." },
-        { "hora": "09:00", "titulo": "Cultura Viva", "descripcion": "Tradiciones y costumbres latinoamericanas." },
-        { "hora": "10:00", "titulo": "Entrevistas en Vivo", "descripcion": "Artistas y figuras del espectáculo." },
-        { "hora": "11:00", "titulo": "Cine Familiar", "descripcion": "Comedias para toda la familia." },
-        { "hora": "12:00", "titulo": "Noticias al Día", "descripcion": "Resumen de noticias del mediodía." },
-        { "hora": "13:00", "titulo": "Series del Recuerdo", "descripcion": "Los clásicos de la TV latina." },
-        { "hora": "14:00", "titulo": "Películas Estelares", "descripcion": "Grandes producciones internacionales." },
-        { "hora": "15:00", "titulo": "Show Musical", "descripcion": "Presentaciones y conciertos." },
-        { "hora": "16:00", "titulo": "Cine de la Tarde", "descripcion": "Acción, comedia y drama." },
-        { "hora": "17:00", "titulo": "Reportajes", "descripcion": "Investigaciones exclusivas." },
-        { "hora": "18:00", "titulo": "Noticias Vespertinas", "descripcion": "Informes de la tarde." },
-        { "hora": "19:00", "titulo": "Series Nocturnas", "descripcion": "Suspenso y acción para cerrar el día." },
-        { "hora": "20:00", "titulo": "Cine Estelar", "descripcion": "Estrenos de la semana." },
-        { "hora": "21:00", "titulo": "Late Show Latino", "descripcion": "Entrevistas y música en vivo." },
-        { "hora": "22:00", "titulo": "Reflexión Nocturna", "descripcion": "Pensamientos positivos antes de dormir." },
-        { "hora": "23:00", "titulo": "Fin de Jornada", "descripcion": "Cierre informativo del día." }
+        { "hora": "02:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." }
       ]
     },
     {
       "dia": "Martes",
       "programas": [
         { "hora": "00:00", "titulo": "Noche de Películas", "descripcion": "Cine clásico y moderno." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." },
-        { "hora": "02:00", "titulo": "Cine Indie", "descripcion": "Historias únicas del cine alternativo." },
-        { "hora": "03:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
-        { "hora": "04:00", "titulo": "Cultura Viva", "descripcion": "Tradiciones y costumbres de América Latina." },
-        { "hora": "05:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." },
-        { "hora": "06:00", "titulo": "Mañanas Musicales", "descripcion": "Ritmos energizantes para comenzar el día." },
-        { "hora": "07:00", "titulo": "Noticias de la Mañana", "descripcion": "Resumen informativo matutino." },
-        { "hora": "08:00", "titulo": "Programas Juveniles", "descripcion": "Entretenimiento y humor para jóvenes." },
-        { "hora": "09:00", "titulo": "Cine de Tarde", "descripcion": "Películas para todos los gustos." },
-        { "hora": "10:00", "titulo": "Documentales", "descripcion": "Historias inspiradoras del mundo." },
-        { "hora": "11:00", "titulo": "Cocina con Sabor", "descripcion": "Platos típicos latinoamericanos." },
-        { "hora": "12:00", "titulo": "Cine Familiar", "descripcion": "Comedias y aventuras familiares." },
-        { "hora": "13:00", "titulo": "Series Latinas", "descripcion": "Telenovelas románticas y drama." },
-        { "hora": "14:00", "titulo": "Noticias del Día", "descripcion": "Actualidad desde América Latina." },
-        { "hora": "15:00", "titulo": "Reportajes", "descripcion": "Investigaciones exclusivas." },
-        { "hora": "16:00", "titulo": "Top Latino", "descripcion": "Videos musicales más votados." },
-        { "hora": "17:00", "titulo": "Cine de Autor", "descripcion": "Obras destacadas del cine latino." },
-        { "hora": "18:00", "titulo": "Series del Recuerdo", "descripcion": "Clásicos inolvidables de la TV." },
-        { "hora": "19:00", "titulo": "Previo al Noticiero", "descripcion": "Resumen informativo y entretenimiento." },
-        { "hora": "20:00", "titulo": "Noticiero Estelar", "descripcion": "Noticias y análisis." },
-        { "hora": "21:00", "titulo": "Cine Estelar", "descripcion": "Grandes producciones internacionales." },
-        { "hora": "22:00", "titulo": "Late Show Latino", "descripcion": "Entrevistas y música en vivo." },
-        { "hora": "23:00", "titulo": "Reflexión Nocturna", "descripcion": "Mensajes positivos antes de dormir." }
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
       ]
     },
     {
       "dia": "Miércoles",
       "programas": [
         { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Cine clásico y moderno." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." },
-        { "hora": "02:00", "titulo": "Series del Recuerdo", "descripcion": "Clásicos inolvidables de la televisión." },
-        { "hora": "03:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
-        { "hora": "04:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." },
-        { "hora": "05:00", "titulo": "Cultura Viva", "descripcion": "Tradiciones y costumbres latinoamericanas." },
-        { "hora": "06:00", "titulo": "Reportajes", "descripcion": "Investigaciones exclusivas." },
-        { "hora": "07:00", "titulo": "Noticias de la Mañana", "descripcion": "Resumen informativo matutino." },
-        { "hora": "08:00", "titulo": "Series Latinas", "descripcion": "Romance, drama y humor." },
-        { "hora": "09:00", "titulo": "Cine Familiar", "descripcion": "Comedias para toda la familia." },
-        { "hora": "10:00", "titulo": "Entrevistas en Vivo", "descripcion": "Conversaciones exclusivas con artistas." },
-        { "hora": "11:00", "titulo": "Cine de Tarde", "descripcion": "Películas de acción y comedia." },
-        { "hora": "12:00", "titulo": "Noticias al Día", "descripcion": "Resumen del mediodía." },
-        { "hora": "13:00", "titulo": "Top Latino", "descripcion": "Los éxitos musicales más votados." },
-        { "hora": "14:00", "titulo": "Reportes Especiales", "descripcion": "Coberturas internacionales." },
-        { "hora": "15:00", "titulo": "Series Nocturnas", "descripcion": "Suspenso y acción latina." },
-        { "hora": "16:00", "titulo": "Cine Estelar", "descripcion": "Grandes producciones internacionales." },
-        { "hora": "17:00", "titulo": "Late Show Latino", "descripcion": "Entrevistas y humor nocturno." },
-        { "hora": "18:00", "titulo": "Reflexión Nocturna", "descripcion": "Mensajes positivos y buena música." },
-        { "hora": "19:00", "titulo": "Fin de Jornada", "descripcion": "Cierre informativo del día." },
-        { "hora": "20:00", "titulo": "Noticias Estelares", "descripcion": "Actualidad nacional e internacional." },
-        { "hora": "21:00", "titulo": "Películas Estelares", "descripcion": "Estrenos de la semana." },
-        { "hora": "22:00", "titulo": "Cine de Medianoche", "descripcion": "Terror y suspenso latino." },
-        { "hora": "23:00", "titulo": "Reflexión Nocturna", "descripcion": "Cierre positivo del día." }
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
       ]
     },
     {
       "dia": "Jueves",
       "programas": [
         { "hora": "00:00", "titulo": "Cine de Medianoche", "descripcion": "Terror y suspenso latinoamericano." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." },
-        { "hora": "02:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
-        { "hora": "03:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." },
-        { "hora": "04:00", "titulo": "Noticias de la Mañana", "descripcion": "Resumen informativo matutino." },
-        { "hora": "05:00", "titulo": "Programas Juveniles", "descripcion": "Entretenimiento para jóvenes." },
-        { "hora": "06:00", "titulo": "Cine Familiar", "descripcion": "Comedias para toda la familia." },
-        { "hora": "07:00", "titulo": "Series Latinas", "descripcion": "Romance, drama y humor." },
-        { "hora": "08:00", "titulo": "Noticias al Día", "descripcion": "Actualidad nacional e internacional." },
-        { "hora": "09:00", "titulo": "Cine de la Tarde", "descripcion": "Acción y comedia latina." },
-        { "hora": "10:00", "titulo": "Cultura Viva", "descripcion": "Tradiciones y costumbres latinoamericanas." },
-        { "hora": "11:00", "titulo": "Reportajes", "descripcion": "Investigaciones exclusivas." },
-        { "hora": "12:00", "titulo": "Entrevistas en Vivo", "descripcion": "Conversaciones exclusivas con artistas." },
-        { "hora": "13:00", "titulo": "Cine Estelar", "descripcion": "Grandes producciones internacionales." },
-        { "hora": "14:00", "titulo": "Noticias Estelares", "descripcion": "Actualidad nacional e internacional." },
-        { "hora": "15:00", "titulo": "Late Show Latino", "descripcion": "Entrevistas y humor nocturno." },
-        { "hora": "16:00", "titulo": "Reflexión Nocturna", "descripcion": "Mensajes positivos antes de dormir." }
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
       ]
     },
     {
       "dia": "Viernes",
       "programas": [
         { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Cine clásico y moderno." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." },
-        { "hora": "02:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
-        { "hora": "03:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." },
-        { "hora": "04:00", "titulo": "Noticias de la Mañana", "descripcion": "Resumen informativo matutino." },
-        { "hora": "05:00", "titulo": "Series Latinas", "descripcion": "Romance, drama y humor." },
-        { "hora": "06:00", "titulo": "Cine Familiar", "descripcion": "Comedias para toda la familia." },
-        { "hora": "07:00", "titulo": "Noticias del Día", "descripcion": "Actualidad desde América Latina." },
-        { "hora": "08:00", "titulo": "Reportajes", "descripcion": "Investigaciones exclusivas." },
-        { "hora": "09:00", "titulo": "Top Latino", "descripcion": "Videos musicales más votados." },
-        { "hora": "10:00", "titulo": "Cine de Autor", "descripcion": "Obras destacadas del cine latino." },
-        { "hora": "11:00", "titulo": "Series del Recuerdo", "descripcion": "Clásicos inolvidables de la TV." },
-        { "hora": "12:00", "titulo": "Previo al Noticiero", "descripcion": "Resumen informativo y entretenimiento." },
-        { "hora": "13:00", "titulo": "Noticiero Estelar", "descripcion": "Noticias y análisis." },
-        { "hora": "14:00", "titulo": "Cine Estelar", "descripcion": "Grandes producciones internacionales." },
-        { "hora": "15:00", "titulo": "Late Show Latino", "descripcion": "Entrevistas y música en vivo." },
-        { "hora": "16:00", "titulo": "Reflexión Nocturna", "descripcion": "Mensajes positivos antes de dormir." }
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
       ]
     },
     {
       "dia": "Sábado",
       "programas": [
         { "hora": "00:00", "titulo": "Cine de Medianoche", "descripcion": "Terror y suspenso latino." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." },
-        { "hora": "02:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
-        { "hora": "03:00", "titulo": "Cultura Viva", "descripcion": "Tradiciones y costumbres latinoamericanas." },
-        { "hora": "04:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." },
-        { "hora": "05:00", "titulo": "Noticias de la Mañana", "descripcion": "Resumen informativo matutino." },
-        { "hora": "06:00", "titulo": "Cine Familiar", "descripcion": "Comedias para toda la familia." },
-        { "hora": "07:00", "titulo": "Series Latinas", "descripcion": "Romance, drama y humor." },
-        { "hora": "08:00", "titulo": "Reportajes", "descripcion": "Investigaciones exclusivas." },
-        { "hora": "09:00", "titulo": "Top Latino", "descripcion": "Videos musicales más votados." },
-        { "hora": "10:00", "titulo": "Cine Estelar", "descripcion": "Grandes producciones internacionales." },
-        { "hora": "11:00", "titulo": "Late Show Latino", "descripcion": "Entrevistas y música en vivo." },
-        { "hora": "12:00", "titulo": "Reflexión Nocturna", "descripcion": "Mensajes positivos antes de dormir." }
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
       ]
     },
     {
       "dia": "Domingo",
       "programas": [
         { "hora": "00:00", "titulo": "Cine Dominical", "descripcion": "Cine clásico y moderno." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." },
-        { "hora": "02:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
-        { "hora": "03:00", "titulo": "Despierta Domingo", "descripcion": "Noticias, farándula y cultura." },
-        { "hora": "04:00", "titulo": "Noticias del Domingo", "descripcion
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
+      ]
+    }
+  ]
+}
