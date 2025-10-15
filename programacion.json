@@ -1,22 +1,12 @@
 [
-  {
-    "hora": "08:00",
-    "titulo": "Noticiero Latino"
-  },
-  {
-    "hora": "10:00",
-    "titulo": "Videos Musicales"
-  },
-  {
-    "hora": "12:00",
-    "titulo": "Entrevistas en Vivo"
-  },
-  {
-    "hora": "15:00",
-    "titulo": "Top Hits del Momento"
-  },
-  {
-    "hora": "20:00",
-    "titulo": "Reportes Especiales"
-  }
+  { "hora": "00:00", "titulo": "Cine Nocturno" },
+  { "hora": "02:00", "titulo": "Música Chill" },
+  { "hora": "06:00", "titulo": "Despierta Latino" },
+  { "hora": "08:00", "titulo": "Noticiero Latino" },
+  { "hora": "10:00", "titulo": "Videos Musicales" },
+  { "hora": "12:00", "titulo": "Entrevistas en Vivo" },
+  { "hora": "15:00", "titulo": "Top Hits del Momento" },
+  { "hora": "18:00", "titulo": "Series Latinas" },
+  { "hora": "20:00", "titulo": "Reportes Especiales" },
+  { "hora": "22:00", "titulo": "Late Show Latino" }
 ]
