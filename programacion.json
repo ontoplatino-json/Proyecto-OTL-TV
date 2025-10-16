@@ -1,54 +1,124 @@
 {
-  "dias": [
+  "programacion": [
     {
       "dia": "Lunes",
       "programas": [
-        { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Comedias y dramas latinos." },
-        { "hora": "01:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
-        { "hora": "02:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." }
+        { "hora": "00:00", "titulo": "Noches Latinas", "descripcion": "Sesiones de música urbana y pop latino para cerrar el día con energía positiva." },
+        { "hora": "02:00", "titulo": "Cine Retro", "descripcion": "Disfruta de clásicos del cine internacional y momentos icónicos de la gran pantalla." },
+        { "hora": "04:00", "titulo": "Despierta Latinoamérica", "descripcion": "Noticias frescas, clima y el resumen de lo más viral de la madrugada." },
+        { "hora": "06:00", "titulo": "Buenos Días Mundo", "descripcion": "Revista matinal con entrevistas, noticias culturales y mucho humor." },
+        { "hora": "08:00", "titulo": "Conexión Deportiva", "descripcion": "Todo el análisis previo de la jornada deportiva con invitados especiales." },
+        { "hora": "10:00", "titulo": "Top Music Hits", "descripcion": "Los videos musicales más sonados del momento en toda Hispanoamérica." },
+        { "hora": "12:00", "titulo": "Show de Mediodía", "descripcion": "Variedades, concursos y el mejor entretenimiento en vivo." },
+        { "hora": "14:00", "titulo": "Cine Premier", "descripcion": "Películas recientes del cine internacional y latino." },
+        { "hora": "16:00", "titulo": "Series OnTop", "descripcion": "Maratón de tus series favoritas con nuevos episodios cada semana." },
+        { "hora": "18:00", "titulo": "La Hora Gamer", "descripcion": "Torneos, reseñas y lo último del mundo gaming." },
+        { "hora": "20:00", "titulo": "En Vivo - Debate Deportivo", "descripcion": "Panel de expertos analiza la jornada de la Premier League y LaLiga." },
+        { "hora": "22:00", "titulo": "Noche VIP", "descripcion": "Entrevistas exclusivas con celebridades, artistas y creadores digitales." }
       ]
     },
     {
       "dia": "Martes",
       "programas": [
-        { "hora": "00:00", "titulo": "Noche de Películas", "descripcion": "Cine clásico y moderno." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
+        { "hora": "00:00", "titulo": "Noches Acústicas", "descripcion": "Sesiones íntimas de artistas interpretando sus mejores temas." },
+        { "hora": "02:00", "titulo": "Cine Internacional", "descripcion": "Historias fascinantes desde distintas culturas del mundo." },
+        { "hora": "04:00", "titulo": "Noticias 24/7", "descripcion": "Actualización constante con lo más importante del día." },
+        { "hora": "06:00", "titulo": "Despierta OnTop", "descripcion": "Mañanas llenas de energía, humor y actualidad." },
+        { "hora": "08:00", "titulo": "Agenda Deportiva", "descripcion": "Repaso completo a las ligas europeas y sudamericanas." },
+        { "hora": "10:00", "titulo": "Ranking Musical", "descripcion": "Los 20 videos más vistos de la semana." },
+        { "hora": "12:00", "titulo": "Magazine en Vivo", "descripcion": "Cultura pop, entrevistas y tendencias en directo." },
+        { "hora": "14:00", "titulo": "Cine Familiar", "descripcion": "Películas para toda la familia con mensajes positivos." },
+        { "hora": "16:00", "titulo": "DocuLatino", "descripcion": "Documentales sobre naturaleza, viajes y estilo de vida." },
+        { "hora": "18:00", "titulo": "Ritmo Urbano", "descripcion": "Especial de reguetón, trap y fusiones urbanas." },
+        { "hora": "20:00", "titulo": "En Vivo - Europa League", "descripcion": "Cobertura exclusiva con comentaristas invitados." },
+        { "hora": "22:00", "titulo": "Cine de Medianoche", "descripcion": "Películas intensas y emocionantes para cerrar el día." }
       ]
     },
     {
       "dia": "Miércoles",
       "programas": [
-        { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Cine clásico y moderno." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
+        { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Una selección de thrillers y dramas impactantes." },
+        { "hora": "02:00", "titulo": "Mundo Geek", "descripcion": "Noticias sobre tecnología, gadgets y cultura digital." },
+        { "hora": "04:00", "titulo": "Madrugada Chill", "descripcion": "Sonidos suaves para relajarte y dormir mejor." },
+        { "hora": "06:00", "titulo": "Despierta Futbol", "descripcion": "Resumen de los partidos y previas de la Champions League." },
+        { "hora": "08:00", "titulo": "Actualidad Global", "descripcion": "Noticias, economía y sociedad con un toque latino." },
+        { "hora": "10:00", "titulo": "Latin Pop Show", "descripcion": "Videos musicales con presentaciones en vivo." },
+        { "hora": "12:00", "titulo": "OnTop Noticias", "descripcion": "Titulares e informes especiales desde todo el mundo." },
+        { "hora": "14:00", "titulo": "Tardes de Serie", "descripcion": "Episodios continuos de las series más populares." },
+        { "hora": "16:00", "titulo": "Mundo Motor", "descripcion": "Todo sobre autos, velocidad y tecnología deportiva." },
+        { "hora": "18:00", "titulo": "Zona Gamer", "descripcion": "Competiciones y noticias del mundo gamer." },
+        { "hora": "20:00", "titulo": "Champions Show", "descripcion": "Previa y análisis de la jornada europea." },
+        { "hora": "22:00", "titulo": "Cine Acción", "descripcion": "Explosiones, adrenalina y héroes imposibles." }
       ]
     },
     {
       "dia": "Jueves",
       "programas": [
-        { "hora": "00:00", "titulo": "Cine de Medianoche", "descripcion": "Terror y suspenso latinoamericano." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
+        { "hora": "00:00", "titulo": "Hits de Medianoche", "descripcion": "Videos musicales para no dormir." },
+        { "hora": "02:00", "titulo": "Retro OnTop", "descripcion": "Lo mejor de los 80s, 90s y 2000s." },
+        { "hora": "04:00", "titulo": "Noticias Express", "descripcion": "Titulares rápidos con lo más relevante." },
+        { "hora": "06:00", "titulo": "Despierta Música", "descripcion": "Comienza el día con buena vibra musical." },
+        { "hora": "08:00", "titulo": "El Rincón Deportivo", "descripcion": "Resúmenes de LaLiga y Ligue 1." },
+        { "hora": "10:00", "titulo": "Videoclips OnTop", "descripcion": "Top de la semana en música latina." },
+        { "hora": "12:00", "titulo": "Talk Show", "descripcion": "Debates con humor sobre temas cotidianos." },
+        { "hora": "14:00", "titulo": "Cine Emocional", "descripcion": "Películas con historias que inspiran." },
+        { "hora": "16:00", "titulo": "Turismo TV", "descripcion": "Viajes, playas y cultura latina." },
+        { "hora": "18:00", "titulo": "Previa Europa League", "descripcion": "Análisis y predicciones deportivas." },
+        { "hora": "20:00", "titulo": "En Vivo - Partidos Europa League", "descripcion": "Conectamos con los estadios europeos en directo." },
+        { "hora": "22:00", "titulo": "Cine de Suspenso", "descripcion": "Historias llenas de misterio y emoción." }
       ]
     },
     {
       "dia": "Viernes",
       "programas": [
-        { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Cine clásico y moderno." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
+        { "hora": "00:00", "titulo": "Noche Urbana", "descripcion": "Lo mejor del reguetón y hip-hop latino." },
+        { "hora": "02:00", "titulo": "Cine del Viernes", "descripcion": "Películas taquilleras de acción y aventura." },
+        { "hora": "04:00", "titulo": "After Hours", "descripcion": "Mixes musicales y sesiones electrónicas." },
+        { "hora": "06:00", "titulo": "Amanecer Deportivo", "descripcion": "Resumen de los partidos de la noche anterior." },
+        { "hora": "08:00", "titulo": "Despierta con OnTop", "descripcion": "Humor, música y noticias ligeras." },
+        { "hora": "10:00", "titulo": "En la Cancha", "descripcion": "Previa de la jornada de la Premier League." },
+        { "hora": "12:00", "titulo": "Tardes Musicales", "descripcion": "Selección de videoclips internacionales." },
+        { "hora": "14:00", "titulo": "Estrenos de la Semana", "descripcion": "Avances de nuevas películas y series." },
+        { "hora": "16:00", "titulo": "Fútbol Total", "descripcion": "Resumen completo de las ligas europeas." },
+        { "hora": "18:00", "titulo": "Previa de la Jornada", "descripcion": "Pronósticos y análisis con expertos." },
+        { "hora": "20:00", "titulo": "Partidos en Vivo - Premier League", "descripcion": "Transmisiones y comentarios en directo." },
+        { "hora": "22:00", "titulo": "Show Nocturno", "descripcion": "Cierre del viernes con comedia y entrevistas." }
       ]
     },
     {
       "dia": "Sábado",
       "programas": [
-        { "hora": "00:00", "titulo": "Cine de Medianoche", "descripcion": "Terror y suspenso latino." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
+        { "hora": "00:00", "titulo": "Noche Electrónica", "descripcion": "Set en vivo de DJs y artistas invitados." },
+        { "hora": "02:00", "titulo": "Cine de Acción", "descripcion": "Películas cargadas de adrenalina." },
+        { "hora": "04:00", "titulo": "Resumen Nocturno", "descripcion": "Noticias y clips de la jornada deportiva." },
+        { "hora": "06:00", "titulo": "Previas del Finde", "descripcion": "Todo lo que se viene en el fin de semana deportivo." },
+        { "hora": "08:00", "titulo": "Sábado Premier", "descripcion": "Transmisiones en vivo desde Inglaterra." },
+        { "hora": "10:00", "titulo": "Partidos en Vivo - LaLiga", "descripcion": "Cobertura exclusiva de los encuentros españoles." },
+        { "hora": "12:00", "titulo": "Almuerzo Musical", "descripcion": "Mix internacional con artistas invitados." },
+        { "hora": "14:00", "titulo": "Ligue 1 en Vivo", "descripcion": "Fútbol francés con comentaristas locales." },
+        { "hora": "16:00", "titulo": "Fútbol Internacional", "descripcion": "Los mejores goles del fin de semana." },
+        { "hora": "18:00", "titulo": "Resumen Deportivo", "descripcion": "Todo lo que dejó la jornada sabatina." },
+        { "hora": "20:00", "titulo": "Cine del Sábado", "descripcion": "Grandes estrenos para disfrutar en familia." },
+        { "hora": "22:00", "titulo": "Club OnTop", "descripcion": "Cierra el día con la mejor música electrónica y urbana." }
       ]
     },
     {
       "dia": "Domingo",
       "programas": [
-        { "hora": "00:00", "titulo": "Cine Dominical", "descripcion": "Cine clásico y moderno." },
-        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
+        { "hora": "00:00", "titulo": "Chill Night", "descripcion": "Sesiones relajadas para cerrar la semana." },
+        { "hora": "02:00", "titulo": "Cine Romántico", "descripcion": "Películas con historias que tocan el corazón." },
+        { "hora": "04:00", "titulo": "Noticias Express", "descripcion": "Resumen informativo nocturno." },
+        { "hora": "06:00", "titulo": "Domingo Deportivo", "descripcion": "Análisis y previas de los partidos dominicales." },
+        { "hora": "08:00", "titulo": "Partidos en Vivo - Premier League", "descripcion": "Transmisión en directo con narración exclusiva." },
+        { "hora": "10:00", "titulo": "En Vivo - LaLiga", "descripcion": "Conexión directa con España para los partidos de la jornada." },
+        { "hora": "12:00", "titulo": "Ligue 1 al Máximo", "descripcion": "El fútbol francés en su máxima intensidad." },
+        { "hora": "14:00", "titulo": "Cine Familiar", "descripcion": "Historias positivas para toda la familia." },
+        { "hora": "16:00", "titulo": "Resumen de la Jornada", "descripcion": "Todos los goles, jugadas y entrevistas del fin de semana." },
+        { "hora": "18:00", "titulo": "Champions Highlights", "descripcion": "Especial de los mejores momentos del torneo." },
+        { "hora": "20:00", "titulo": "Domingo Show", "descripcion": "Variedades, humor y música para cerrar el fin de semana." },
+        { "hora": "22:00", "titulo": "Cine Nocturno", "descripcion": "El mejor cine internacional para terminar la semana." }
       ]
     }
   ]
 }
+
