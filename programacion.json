@@ -1,29 +1,54 @@
 {
-  "dia": "Domingo",
-  "programas": [
-    { "hora": "00:00", "titulo": "Cine Clásico Dominical", "descripcion": "Disfruta del mejor cine clásico latinoamericano." },
-    { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores temas de rock en español para la madrugada." },
-    { "hora": "02:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante para acompañar la noche." },
-    { "hora": "03:00", "titulo": "Cultura Viva", "descripcion": "Historias y tradiciones de América Latina." },
-    { "hora": "04:00", "titulo": "Reflexiones del Alba", "descripcion": "Mensajes positivos para empezar el día." },
-    { "hora": "05:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura dominical." },
-    { "hora": "06:00", "titulo": "Mañanas Familiares", "descripcion": "Programas de entretenimiento y humor para toda la familia." },
-    { "hora": "07:00", "titulo": "Noticias del Domingo", "descripcion": "Resumen informativo de la semana." },
-    { "hora": "08:00", "titulo": "Cine Familiar", "descripcion": "Películas para disfrutar en familia." },
-    { "hora": "09:00", "titulo": "Cocina con Sabor", "descripcion": "Recetas tradicionales de América Latina." },
-    { "hora": "10:00", "titulo": "Viajes y Destinos", "descripcion": "Explora los paisajes y culturas del continente." },
-    { "hora": "11:00", "titulo": "Documentales del Mundo", "descripcion": "Historias reales que inspiran y educan." },
-    { "hora": "12:00", "titulo": "Cine Estelar Dominical", "descripcion": "Grandes producciones para el mediodía." },
-    { "hora": "13:00", "titulo": "Series Latinas", "descripcion": "Romance, drama y humor de producción local." },
-    { "hora": "14:00", "titulo": "Reportajes", "descripcion": "Investigaciones y entrevistas exclusivas." },
-    { "hora": "15:00", "titulo": "Top Latino", "descripcion": "Los éxitos musicales más votados de la semana." },
-    { "hora": "16:00", "titulo": "Cine de Aventura", "descripcion": "Acción y emoción para toda la tarde." },
-    { "hora": "17:00", "titulo": "Noticias Vespertinas", "descripcion": "Resumen informativo del día domingo." },
-    { "hora": "18:00", "titulo": "Entrevistas en Vivo", "descripcion": "Conversaciones exclusivas con figuras destacadas." },
-    { "hora": "19:00", "titulo": "Cine de Noche", "descripcion": "Producciones destacadas del cine latino." },
-    { "hora": "20:00", "titulo": "Noticiero Estelar", "descripcion": "Las noticias más relevantes de la semana." },
-    { "hora": "21:00", "titulo": "Cine Estelar", "descripcion": "Estrenos internacionales para cerrar el fin de semana." },
-    { "hora": "22:00", "titulo": "Late Show Latino", "descripcion": "Entrevistas, humor y música en vivo." },
-    { "hora": "23:00", "titulo": "Reflexión Nocturna", "descripcion": "Mensajes positivos para iniciar una nueva semana." }
+  "dias": [
+    {
+      "dia": "Lunes",
+      "programas": [
+        { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Comedias y dramas latinos." },
+        { "hora": "01:00", "titulo": "Música Chill", "descripcion": "Ambiente relajante con sonidos suaves." },
+        { "hora": "02:00", "titulo": "Despierta Latino", "descripcion": "Noticias, farándula y cultura." }
+      ]
+    },
+    {
+      "dia": "Martes",
+      "programas": [
+        { "hora": "00:00", "titulo": "Noche de Películas", "descripcion": "Cine clásico y moderno." },
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
+      ]
+    },
+    {
+      "dia": "Miércoles",
+      "programas": [
+        { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Cine clásico y moderno." },
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
+      ]
+    },
+    {
+      "dia": "Jueves",
+      "programas": [
+        { "hora": "00:00", "titulo": "Cine de Medianoche", "descripcion": "Terror y suspenso latinoamericano." },
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
+      ]
+    },
+    {
+      "dia": "Viernes",
+      "programas": [
+        { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Cine clásico y moderno." },
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
+      ]
+    },
+    {
+      "dia": "Sábado",
+      "programas": [
+        { "hora": "00:00", "titulo": "Cine de Medianoche", "descripcion": "Terror y suspenso latino." },
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock latino." }
+      ]
+    },
+    {
+      "dia": "Domingo",
+      "programas": [
+        { "hora": "00:00", "titulo": "Cine Dominical", "descripcion": "Cine clásico y moderno." },
+        { "hora": "01:00", "titulo": "Rock Latino", "descripcion": "Los mejores himnos del rock en español." }
+      ]
+    }
   ]
 }
