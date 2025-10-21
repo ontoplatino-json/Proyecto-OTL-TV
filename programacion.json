@@ -37,8 +37,8 @@
     {
       "dia": "Miércoles",
       "programas": [
-        { "hora": "00:00", "titulo": "Cine Nocturno", "descripcion": "Una selección de thrillers y dramas impactantes." },
-        { "hora": "02:00", "titulo": "Mundo Geek", "descripcion": "Noticias sobre tecnología, gadgets y cultura digital." },
+        { "hora": "00:00", "titulo": "Fútbol Copa Sudamericana", "descripcion": "Independiente del Valle (ECUADOR) VS Atlético Mineiro (BRASIL)." },
+        { "hora": "02:00", "titulo": "Fútbol Copa Sudamericana", "descripcion": "Independiente del Valle (ECUADOR) VS Atlético Mineiro (BRASIL)" },
         { "hora": "04:00", "titulo": "Madrugada Chill", "descripcion": "Sonidos suaves para relajarte y dormir mejor." },
         { "hora": "06:00", "titulo": "Despierta Futbol", "descripcion": "Resumen de los partidos y previas de la Champions League." },
         { "hora": "08:00", "titulo": "Actualidad Global", "descripcion": "Noticias, economía y sociedad con un toque latino." },
@@ -54,8 +54,8 @@
     {
       "dia": "Jueves",
       "programas": [
-        { "hora": "00:00", "titulo": "Hits de Medianoche", "descripcion": "Videos musicales para no dormir." },
-        { "hora": "02:00", "titulo": "Retro OnTop", "descripcion": "Lo mejor de los 80s, 90s y 2000s." },
+        { "hora": "00:00", "titulo": "Fútbol Copa Libertadores", "descripcion": "Liga de Quito (ECUADOR) VS Palmeiras (Brasil)." },
+        { "hora": "02:00", "titulo": "Fútbol Copa Libertadores", "descripcion": "Liga de Quito (ECUADOR) VS Palmeiras (Brasil)." },
         { "hora": "04:00", "titulo": "Noticias Express", "descripcion": "Titulares rápidos con lo más relevante." },
         { "hora": "06:00", "titulo": "Despierta Música", "descripcion": "Comienza el día con buena vibra musical." },
         { "hora": "08:00", "titulo": "El Rincón Deportivo", "descripcion": "Resúmenes de LaLiga y Ligue 1." },
