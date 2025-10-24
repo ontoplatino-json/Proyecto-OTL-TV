@@ -1,107 +1,117 @@
-[
-  {
-    "dia": "Lunes",
-    "programas": [
-      {
-        "titulo": "Despierta Latinoamérica",
-        "descripcion": "Noticias y análisis matutino con invitados especiales.",
-        "hora": "08:00 AM"
-      },
-      {
-        "titulo": "Música Latina",
-        "descripcion": "Los mejores éxitos de la música tropical y urbana.",
-        "hora": "10:00 AM"
-      }
-    ]
-  },
-  {
-    "dia": "Martes",
-    "programas": [
-      {
-        "titulo": "Conexión Deportiva",
-        "descripcion": "Resumen de lo mejor del deporte latinoamericano.",
-        "hora": "09:00 AM"
-      },
-      {
-        "titulo": "Cine Clásico",
-        "descripcion": "Películas icónicas de la historia del cine latino.",
-        "hora": "02:00 PM"
-      }
-    ]
-  },
-  {
-    "dia": "Miércoles",
-    "programas": [
-      {
-        "titulo": "En Vivo con los Artistas",
-        "descripcion": "Entrevistas exclusivas con cantantes y productores.",
-        "hora": "08:30 AM"
-      },
-      {
-        "titulo": "Series Latinas",
-        "descripcion": "Historias y dramas que marcaron generaciones.",
-        "hora": "03:00 PM"
-      }
-    ]
-  },
-  {
-    "dia": "Jueves",
-    "programas": [
-      {
-        "titulo": "Debate Abierto",
-        "descripcion": "Temas sociales con participación del público.",
-        "hora": "11:00 AM"
-      },
-      {
-        "titulo": "Mundo Urbano",
-        "descripcion": "Actualidad del hip hop y reggaetón latino.",
-        "hora": "04:00 PM"
-      }
-    ]
-  },
-  {
-    "dia": "Viernes",
-    "programas": [
-      {
-        "titulo": "Viernes Musical",
-        "descripcion": "Especial de estrenos y nuevos artistas emergentes.",
-        "hora": "10:00 AM"
-      },
-      {
-        "titulo": "Show Nocturno",
-        "descripcion": "Diversión, entrevistas y comedia para cerrar la semana.",
-        "hora": "09:00 PM"
-      }
-    ]
-  },
-  {
-    "dia": "Sábado",
-    "programas": [
-      {
-        "titulo": "Fin de Semana en Vivo",
-        "descripcion": "Eventos y conciertos transmitidos en directo.",
-        "hora": "12:00 PM"
-      },
-      {
-        "titulo": "Cine Familiar",
-        "descripcion": "Películas para disfrutar en familia.",
-        "hora": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "dia": "Domingo",
-    "programas": [
-      {
-        "titulo": "Domingo Cultural",
-        "descripcion": "Documentales y reportajes sobre arte y cultura.",
-        "hora": "09:00 AM"
-      },
-      {
-        "titulo": "Noche Romántica",
-        "descripcion": "Baladas y clásicos para cerrar el fin de semana.",
-        "hora": "08:00 PM"
-      }
-    ]
-  }
-]
+{
+  "programacion": [
+    {
+      "dia": "Lunes",
+      "programas": [
+        { "hora": "00:00", "titulo": "Música Nocturna", "descripcion": "Selección continua de música suave y chillout para acompañar la madrugada." },
+        { "hora": "00:30", "titulo": "Ontop Clásicos", "descripcion": "Cine clásico internacional: grandes obras restauradas del siglo XX." },
+        { "hora": "01:00", "titulo": "Ontop Series", "descripcion": "Maratón de series icónicas latinoamericanas y europeas." },
+        { "hora": "01:30", "titulo": "Ontop Noticias Noche", "descripcion": "Resumen de las principales noticias globales y latinoamericanas." },
+        { "hora": "02:00", "titulo": "Cine Retro", "descripcion": "Cine internacional con comentarios culturales y técnicos." },
+        { "hora": "02:30", "titulo": "Ontop Cultura", "descripcion": "Documentales sobre historia, ciencia y sociedad." },
+        { "hora": "03:00", "titulo": "Ontop Música Urbana", "descripcion": "Éxitos de la música urbana y pop latino." },
+        { "hora": "04:00", "titulo": "Despierta Latinoamérica", "descripcion": "Noticias y entrevistas matutinas con invitados especiales." },
+        { "hora": "08:00", "titulo": "Ontop Noticias AM", "descripcion": "Análisis matutino de la actualidad internacional y nacional." },
+        { "hora": "10:00", "titulo": "Ontop Deportes", "descripcion": "Previas, análisis y reportajes deportivos internacionales." },
+        { "hora": "12:00", "titulo": "Ontop Cine", "descripcion": "Cine contemporáneo latino y europeo." },
+        { "hora": "14:00", "titulo": "Ontop Cocina", "descripcion": "Sabores del mundo: recetas y gastronomía internacional." },
+        { "hora": "16:00", "titulo": "Ontop Música Latina", "descripcion": "Los éxitos actuales del pop y la música latina." },
+        { "hora": "18:00", "titulo": "Ontop Noticias Tarde", "descripcion": "Resumen informativo del día con análisis y opinión." },
+        { "hora": "19:00", "titulo": "Ontop Series", "descripcion": "Episodios exclusivos de series originales y dobladas." },
+        { "hora": "20:00", "titulo": "Ontop Cine Noche", "descripcion": "Películas destacadas del catálogo internacional." },
+        { "hora": "22:00", "titulo": "Ontop Debate", "descripcion": "Opinión, política y sociedad en profundidad." },
+        { "hora": "23:00", "titulo": "Ontop Late Show", "descripcion": "Entrevistas y humor con figuras del entretenimiento." }
+      ]
+    },
+    {
+      "dia": "Martes",
+      "programas": [
+        { "hora": "00:00", "titulo": "Ontop Chill Night", "descripcion": "Música ambiental y downtempo para la noche." },
+        { "hora": "02:00", "titulo": "Cine Nocturno", "descripcion": "Proyección de clásicos europeos remasterizados." },
+        { "hora": "04:00", "titulo": "Despierta Latinoamérica", "descripcion": "Noticias frescas y entrevistas de actualidad." },
+        { "hora": "08:00", "titulo": "Ontop Noticias", "descripcion": "Cobertura completa de la actualidad internacional." },
+        { "hora": "10:00", "titulo": "Ontop Cultura", "descripcion": "Reportajes sobre arte, cine y patrimonio latinoamericano." },
+        { "hora": "12:00", "titulo": "Ontop Deportes", "descripcion": "Resumen del deporte mundial y notas exclusivas." },
+        { "hora": "15:00", "titulo": "Ontop Música", "descripcion": "Selección de éxitos latinos contemporáneos." },
+        { "hora": "17:00", "titulo": "Ontop Series", "descripcion": "Series y miniseries de producción europea." },
+        { "hora": "20:00", "titulo": "Champions League LIVE", "descripcion": "Transmisión de los partidos de la UEFA Champions League." },
+        { "hora": "22:00", "titulo": "Post Partido", "descripcion": "Análisis, goles y declaraciones tras la jornada." },
+        { "hora": "23:00", "titulo": "Ontop Lounge", "descripcion": "Música de relajación para el cierre del día." }
+      ]
+    },
+    {
+      "dia": "Miércoles",
+      "programas": [
+        { "hora": "00:00", "titulo": "Ontop Lounge", "descripcion": "Música instrumental y electrónica ambiental." },
+        { "hora": "03:00", "titulo": "Cine Europeo", "descripcion": "Selección de cine francés e italiano." },
+        { "hora": "04:00", "titulo": "Despierta Latinoamérica", "descripcion": "Actualidad, noticias y entrevistas de la mañana." },
+        { "hora": "08:00", "titulo": "Ontop Noticias", "descripcion": "Resumen informativo internacional." },
+        { "hora": "10:00", "titulo": "Ontop Cultura", "descripcion": "Documentales culturales y de viajes." },
+        { "hora": "12:00", "titulo": "Ontop Deportes", "descripcion": "Previas y análisis de la jornada deportiva." },
+        { "hora": "14:00", "titulo": "Ontop Cocina", "descripcion": "Cocina de autor y gastronomía internacional." },
+        { "hora": "16:00", "titulo": "Ontop Series", "descripcion": "Series internacionales subtituladas." },
+        { "hora": "20:00", "titulo": "Champions League", "descripcion": "Partidos en vivo de la fase de grupos." },
+        { "hora": "22:00", "titulo": "Análisis Deportivo", "descripcion": "Reacciones y entrevistas tras el fútbol europeo." }
+      ]
+    },
+    {
+      "dia": "Jueves",
+      "programas": [
+        { "hora": "00:00", "titulo": "Ontop Cine de Medianoche", "descripcion": "Thrillers, drama y ciencia ficción nocturna." },
+        { "hora": "04:00", "titulo": "Despierta Latinoamérica", "descripcion": "Noticias matutinas y entrevistas." },
+        { "hora": "08:00", "titulo": "Ontop Noticias", "descripcion": "Titulares y actualidad con enfoque global." },
+        { "hora": "10:00", "titulo": "Ontop Cultura", "descripcion": "Especiales de literatura y cine independiente." },
+        { "hora": "12:00", "titulo": "Ontop Deportes", "descripcion": "Resumen de la jornada deportiva europea." },
+        { "hora": "15:00", "titulo": "Ontop Música Latina", "descripcion": "Pop, salsa, reggaetón y música tropical." },
+        { "hora": "18:00", "titulo": "Ontop Series", "descripcion": "Capítulos nuevos de dramas europeos." },
+        { "hora": "20:00", "titulo": "Ontop Cine", "descripcion": "Cine contemporáneo de Latinoamérica." },
+        { "hora": "22:00", "titulo": "Ontop Debate", "descripcion": "Análisis de la actualidad política y social." }
+      ]
+    },
+    {
+      "dia": "Viernes",
+      "programas": [
+        { "hora": "00:00", "titulo": "Música Chill Out", "descripcion": "Sesión de relajación con música electrónica suave." },
+        { "hora": "04:00", "titulo": "Despierta Latinoamérica", "descripcion": "Informativo matutino con noticias y clima." },
+        { "hora": "08:00", "titulo": "Ontop Noticias", "descripcion": "Titulares del día y reportajes especiales." },
+        { "hora": "10:00", "titulo": "Ontop Cultura", "descripcion": "Entrevistas y reportajes sobre arte y sociedad." },
+        { "hora": "12:00", "titulo": "Ontop Deportes", "descripcion": "Previas del fin de semana futbolístico." },
+        { "hora": "15:00", "titulo": "Ontop Música", "descripcion": "Programa de videoclips latinos." },
+        { "hora": "18:00", "titulo": "Ontop Cine Estelar", "descripcion": "Estrenos de fin de semana." },
+        { "hora": "20:00", "titulo": "Ontop Premier Preview", "descripcion": "Previo a la jornada de la Premier League." },
+        { "hora": "22:00", "titulo": "Ontop Noche", "descripcion": "Entrevistas y música en vivo." }
+      ]
+    },
+    {
+      "dia": "Sábado",
+      "programas": [
+        { "hora": "00:00", "titulo": "Cine de Medianoche", "descripcion": "Películas de culto y thrillers internacionales." },
+        { "hora": "04:00", "titulo": "Despierta Weekend", "descripcion": "Revista informativa para comenzar el fin de semana." },
+        { "hora": "08:00", "titulo": "Ontop Noticias", "descripcion": "Actualidad y titulares globales." },
+        { "hora": "10:00", "titulo": "Ontop Cultura", "descripcion": "Arte, cine y cultura en América Latina y Europa." },
+        { "hora": "12:00", "titulo": "Ontop Deportes", "descripcion": "Especial Premier League y previas del fútbol europeo." },
+        { "hora": "15:00", "titulo": "Premier League LIVE", "descripcion": "Transmisión en vivo de los partidos de la Premier League." },
+        { "hora": "17:00", "titulo": "Ontop Fútbol Internacional", "descripcion": "Resultados y análisis de España, Italia y Francia." },
+        { "hora": "19:00", "titulo": "Ontop Series", "descripcion": "Estrenos y series de producción europea." },
+        { "hora": "21:00", "titulo": "Ontop Cine Estelar", "descripcion": "Estreno destacado de la semana." },
+        { "hora": "23:00", "titulo": "Ontop Música Urbana", "descripcion": "Reggaetón, trap y pop latino para cerrar el sábado." }
+      ]
+    },
+    {
+      "dia": "Domingo",
+      "programas": [
+        { "hora": "00:00", "titulo": "Cine de Autor", "descripcion": "Películas premiadas en festivales internacionales." },
+        { "hora": "04:00", "titulo": "Ontop Religioso", "descripcion": "Reflexión dominical y mensajes de esperanza." },
+        { "hora": "06:00", "titulo": "Ontop Clásicos", "descripcion": "Música instrumental y sinfónica." },
+        { "hora": "08:00", "titulo": "Ontop Noticias Domingo", "descripcion": "Resumen informativo de la semana." },
+        { "hora": "10:00", "titulo": "Ontop Cultura", "descripcion": "Documentales y programas educativos." },
+        { "hora": "12:00", "titulo": "Ontop Cine Familiar", "descripcion": "Películas aptas para todo público." },
+        { "hora": "15:00", "titulo": "Fútbol Internacional", "descripcion": "La Liga, Serie A y Ligue 1 — partidos destacados." },
+        { "hora": "17:00", "titulo": "Ontop Deportes", "descripcion": "Resúmenes y análisis de la jornada deportiva." },
+        { "hora": "19:00", "titulo": "Ontop Música", "descripcion": "Top 20 de la música latina." },
+        { "hora": "21:00", "titulo": "Ontop Cine de Noche", "descripcion": "Película de cierre del fin de semana." },
+        { "hora": "23:00", "titulo": "Ontop Relax", "descripcion": "Música ambiental para finalizar la semana." }
+      ]
+    }
+  ]
+}
