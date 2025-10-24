@@ -1,4 +1,5 @@
-{
+[
+  {
   "programacion": [
     {
       "dia": "Lunes",
@@ -111,7 +112,6 @@
         { "hora": "19:00", "titulo": "Ontop Música", "descripcion": "Top 20 de la música latina." },
         { "hora": "21:00", "titulo": "Ontop Cine de Noche", "descripcion": "Película de cierre del fin de semana." },
         { "hora": "23:00", "titulo": "Ontop Relax", "descripcion": "Música ambiental para finalizar la semana." }
-      ]
-    }
-  ]
-}
+    ]
+  }
+]
