@@ -97,7 +97,7 @@
       ]
     },
     {
-      "dia": "Domingo",
+          "dia": "Domingo",
       "programas": [
         { "hora": "00:00", "titulo": "Cine de Autor", "descripcion": "Películas premiadas en festivales internacionales." },
         { "hora": "04:00", "titulo": "Ontop Religioso", "descripcion": "Reflexión dominical y mensajes de esperanza." },
@@ -105,7 +105,7 @@
         { "hora": "08:00", "titulo": "Ontop Noticias Domingo", "descripcion": "Resumen informativo de la semana." },
         { "hora": "10:00", "titulo": "Ontop Cultura", "descripcion": "Documentales y programas educativos." },
         { "hora": "12:00", "titulo": "Ontop Cine Familiar", "descripcion": "Películas aptas para todo público." },
-        { "hora": "15:00", "titulo": "Fútbol Internacional", "descripcion": "La Liga, Serie A y Ligue 1 — partidos destacados." },
+        { "hora": "15:00", "titulo": "Fútbol Internacional", "descripcion": "La Liga, Real Madrid vs Barcelona." },
         { "hora": "17:00", "titulo": "Ontop Deportes", "descripcion": "Resúmenes y análisis de la jornada deportiva." },
         { "hora": "19:00", "titulo": "Ontop Música", "descripcion": "Top 20 de la música latina." },
         { "hora": "21:00", "titulo": "Ontop Cine de Noche", "descripcion": "Película de cierre del fin de semana." },
