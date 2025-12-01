@@ -1,0 +1,26 @@
+[
+  {
+    "hora": "08:00 AM",
+    "programa": "Música Latina"
+  },
+  {
+    "hora": "10:00 AM",
+    "programa": "Top Hits del Momento"
+  },
+  {
+    "hora": "12:00 PM",
+    "programa": "Entrevistas en Vivo"
+  },
+  {
+    "hora": "03:00 PM",
+    "programa": "Especial DJs"
+  },
+  {
+    "hora": "06:00 PM",
+    "programa": "Conciertos en Vivo"
+  },
+  {
+    "hora": "09:00 PM",
+    "programa": "Beat Latino Night"
+  }
+]
